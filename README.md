@@ -26,7 +26,7 @@ My projects will be added here as I build my portfolio.
 - Create interactive dashboards
 
 ## 📫 Connect With Me
-- GitHub: [My GitHub Profile](https://github.com/pallaviramhu-bab)
+- GitHub: https://github.com/pallaviramu-hub/
 
 ---
 *Learning every day, one dataset at a time.* 📊
